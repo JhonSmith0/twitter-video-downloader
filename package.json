@@ -1,0 +1,24 @@
+{
+  "name": "twitter-video-downloader",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "JhonSmith0",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonSmith0/twitter-video-downloader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JhonSmith0/twitter-video-downloader/issues"
+  },
+  "homepage": "https://github.com/JhonSmith0/twitter-video-downloader#readme",
+  "description": ""
+}
